@@ -1,0 +1,166 @@
+// products.mongodb
+
+use("pet_store")
+
+db.products.drop() // elimina los documentos creados en la colleccion anteriormente
+
+db.products.insertMany([
+  {
+    _id: 1,
+    name: "collares",
+    price: 100
+    category "cats"
+    image"https://images.app.goo.gl/sLj34xPjwFd592eZ9"
+    
+  },
+  {
+    _id: 2,
+    name: "collares",
+    price: 20
+    category "cats"
+    image"https://images.app.goo.gl/y6VjtEBmWXLuU4Kh6"
+  },
+  {
+    _id: 3,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/4mBKqf7nf5Bnoa2j8"
+  },
+  {
+    _id: 4,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/aD95E7YeK3ybyRWF6"
+  }
+
+  {
+    _id: 5,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/Ln7xgPkFu9928cQP8"
+  }
+
+    {
+    _id: 6,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/wP6Ww5kS9n2H2vLb9"
+  }
+
+  
+    {
+    _id: 7,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/oVWptbxF7vGhbWhL8"
+  }
+
+  
+    {
+    _id: 8,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/U37rw3Guy1CLqwvP8"
+  }
+  
+    {
+    _id: 9,
+    name: "collares",
+    price: 120
+    category "cats"
+      image"https://images.app.goo.gl/y6VjtEBmWXLuU4Kh6"
+  }
+
+  
+    {
+    _id: 10,
+    name: "collares",
+    price: 120
+    category "cats"
+    image"https://images.app.goo.gl/JYUyqPCVnX7FcB5o8"
+    
+  }
+   
+       {
+    _id: 11,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/Lqap6CQdGHqUZL6U7"
+
+     _id: 12,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/Lqap6CQdGHqUZL6U7"
+
+
+      _id: 13,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/aLMWPSGzscZvN2v37"
+
+
+      _id: 14,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/Lqap6CQdGHqUZL6U7"
+
+
+
+      _id: 15,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/t1t9LnLUefkqjLqY6"
+
+
+
+
+      _id: 16,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/DVWjGmvp4kZzZpte9" 
+
+
+        _id: 17,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/DVWjGmvp4kZzZpte9" 
+   
+
+       _id: 18,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/DVWjGmvp4kZzZpte9" 
+
+
+
+    _id: 19,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/DVWjGmvp4kZzZpte9" 
+
+
+
+        _id: 20,
+    name: "collares",
+    price: 120
+    category "dogs"
+    image"https://images.app.goo.gl/DVWjGmvp4kZzZpte9" 
+
+
+
+])

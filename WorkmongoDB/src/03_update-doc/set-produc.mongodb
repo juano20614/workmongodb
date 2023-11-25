@@ -1,0 +1,68 @@
+{_id: 1},
+// change => operators
+{
+  $set: {
+    name: 'Mico',
+    price: 21,
+  }
+
+
+  _id: 2},
+// change => operators
+{
+  $set: {
+    name: 'Moana',
+    price: 21,
+  }
+
+
+
+  _id: 3},
+// change => operators
+{
+  $set: {
+    name: 'pepe',
+    price: 21,
+  }
+
+
+  _id: 4},
+// change => operators
+{
+  $set: {
+    name: 'Michi',
+    price: 21,
+  }
+
+
+  _id: 5},
+// change => operators
+{
+  $set: {
+    name: 'Misifu',
+    price: 21,
+  }
+
+
+  _id: 6},
+// change => operators
+{
+  $set: {
+    name: 'campana',
+    price: 21,
+  }
+
+  _id: 7},
+// change => operators
+{
+  $set: {
+    name: 'pric',
+    price: 21,
+  }
+  _id: 8},
+  // change => operators
+  {
+    $set: {
+      name: 'firulais',
+      price: 21,
+    }
